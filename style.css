@@ -23,18 +23,18 @@ nav a:hover {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: #f4f4f4;
+    background-color: #20ffec;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px  #f07373;
 }
 
 .container h2 {
-    color: #333;
+    color: black;
 }
 
 .container p {
     font-size: 16px;
-    color: #f07373;
+    color:  #333 ;
     line-height: 1.6;
 }
 
